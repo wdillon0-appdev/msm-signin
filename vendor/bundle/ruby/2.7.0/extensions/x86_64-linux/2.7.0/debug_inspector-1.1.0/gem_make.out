@@ -1,0 +1,15 @@
+current directory: /workspace/msm-signin/vendor/bundle/ruby/2.7.0/gems/debug_inspector-1.1.0/ext/debug_inspector
+/home/gitpod/.rvm/rubies/ruby-2.7.3/bin/ruby -I /home/gitpod/.rvm/rubies/ruby-2.7.3/lib/ruby/2.7.0 -r ./siteconf20220519-4235-vd35jt.rb extconf.rb
+creating Makefile
+
+current directory: /workspace/msm-signin/vendor/bundle/ruby/2.7.0/gems/debug_inspector-1.1.0/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /workspace/msm-signin/vendor/bundle/ruby/2.7.0/gems/debug_inspector-1.1.0/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.so
+
+current directory: /workspace/msm-signin/vendor/bundle/ruby/2.7.0/gems/debug_inspector-1.1.0/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -m 0755 debug_inspector.so ./.gem.20220519-4235-1lfzfif
